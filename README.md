@@ -29,11 +29,11 @@ Toggle Theme: Use the theme switch button to toggle between light and dark theme
 Heat Map: View the heat map to track your habit consistency over time.
 
 ### Contributing
-Contributions are welcome! Please follow these steps:
-Fork the repository.
-Create a new branch.
-Make your changes.
-Submit a pull request.
+Contributions are welcome! Please follow these steps:<br>
+Fork the repository.<br>
+Create a new branch.<br>
+Make your changes.<br>
+Submit a pull request.<br>
 
 ## Contact
 #### GitHub: [Pratyushs411](https://github.com/Pratyushs411)
