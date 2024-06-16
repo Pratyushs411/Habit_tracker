@@ -21,12 +21,13 @@ Your data is saved and restored even after the app is closed.
  <img src="https://github.com/Pratyushs411/Habit_Tracker/blob/main/3.jpeg?raw=true" alt="Game Screenshot" style="width: 45%; margin-right: 5px;">
  <img src="https://github.com/Pratyushs411/Habit_Tracker/blob/main/4.jpeg?raw=true" alt="Game Over Screenshot" style="width: 45%; margin-left: 5px;">
 </div>
+
 ### Usage
-Add Habit: Tap the "+" button to add a new habit.
-Edit Habit: Swipe left and click on edit to edit habit.
-Delete Habit: Swipe left and click on delete to delete it.
-Toggle Theme: Use the theme switch button to toggle between light and dark themes.
-Heat Map: View the heat map to track your habit consistency over time.
+**Add Habit:** Tap the "+" button to add a new habit.<br>
+**Edit Habit:** Swipe left and click on edit to edit habit.<br>
+**Delete Habit:** Swipe left and click on delete to delete it.<br>
+**Toggle Theme:** Use the theme switch button to toggle between light and dark themes.<br>
+**Heat Map:** View the heat map to track your habit consistency over time.<br>
 
 ### Contributing
 Contributions are welcome! Please follow these steps:<br>
